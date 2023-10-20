@@ -1,0 +1,139 @@
+﻿[000]
+PlayerA=POKEMONTRAINER_Red,trchar000,boy_bike,boy_surf_offset,boy_run,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
+PlayerB=POKEMONTRAINER_Leaf,trchar001,girl_bike,girl_surf_offset,girl_run,girl_dive_offset,girl_fish_offset,girl_fishsurf_offset
+TrainerBattleBGM=005-Boss01.mid
+SurfBGM=Ship.mid
+BicycleBGM=Airship.mid
+Home=3,7,5,8
+WildBattleBGM=Pokemon Salvaje.mp3
+TrainerBattleBGM=Entrenador.mp3
+[001]
+# Intro
+[002]
+# Gimnasio Mercurio
+MapPosition=0,13,12
+ShowArea=true
+[003]
+# Casa Evans
+BattleBack=IndoorB
+MapPosition=0,13,12
+HealingSpot=2,8,8
+[004]
+# Ruta 2
+MapPosition=0,13,12
+ShowArea=false
+SnapEdges=true
+[005]
+# Ciudad Minerva
+MapPosition=0,13,11
+ShowArea=true
+SnapEdges=true
+[006]
+# Centro Pokemon
+MapPosition=0,13,11
+SnapEdges=true
+[007]
+# MClub
+MapSize=2,11
+MapPosition=0,13,10
+ShowArea=true
+[008]
+# Casino Minerva
+MapPosition=0,13,12
+[009]
+# Hotel Minerva - Recepción
+MapPosition=0,14,10
+HealingSpot=8,17,11
+[010]
+# Hotel Minerva - Habitación
+BattleBack=IndoorB
+MapPosition=0,13,10
+[011]
+# MClub - Sala Oculta
+MapPosition=0,14,10
+[012]
+# Ruta 3
+MapPosition=0,14,10
+SnapEdges=true
+[013]
+# Pueblo Venus
+MapPosition=0,14,10
+SnapEdges=true
+[014]
+# Torre Vida
+MapPosition=0,13,10
+[015]
+# Torre Vida - Piso 2
+MapPosition=0,13,10
+[016]
+# Gimnasio Venus
+MapPosition=0,13,10
+[017]
+# Casa Movimientos
+MapPosition=0,13,10
+[018]
+# Centro Pokemon
+MapPosition=0,13,10
+[022]
+# Pueblo Ares
+SnapEdges=true
+BattleBack=Water
+TrainerVictoryME=001-Victory01.mid
+WildVictoryME=001-Victory01.mid
+TrainerBattleBGM=GSC Battle.mid
+MapPosition=0,1,17
+WildBattleBGM=GSC Battle.mid
+ShowArea=true
+[032]
+# Ruta 1
+SnapEdges=true
+BattleBack=Field
+Bicycle=true
+TrainerVictoryME=001-Victory01.mid
+WildVictoryME=001-Victory01.mid
+TrainerBattleBGM=GSC Battle.mid
+MapPosition=0,1,15
+WildBattleBGM=GSC Battle.mid
+[033]
+# Pueblo Hera
+SnapEdges=true
+Bicycle=true
+MapPosition=0,1,13
+ShowArea=true
+[042]
+# Laboratorio Donovan
+SnapEdges=true
+Bicycle=false
+MapPosition=0,1,17
+Outdoor=false
+ShowArea=false
+[043]
+# Casa de \PN
+SnapEdges=true
+BattleBack=
+Bicycle=false
+MapPosition=0,1,17
+Outdoor=false
+ShowArea=true
+[048]
+# Casa Vieja
+SnapEdges=true
+[076]
+# Casa de Steinberg
+SnapEdges=true
+[077]
+# Casa Kevin
+SnapEdges=true
+[078]
+# Centro Pokemon
+SnapEdges=true
+[079]
+# Bosque Diana
+SnapEdges=true
+Bicycle=false
+MapPosition=0,3,12
+ShowArea=true
+[080]
+# Ciudad Mercurio
+SnapEdges=true
+ShowArea=true
